@@ -1,3 +1,5 @@
+package days1_2_arrays_linkedlists;
+
 public class IntBag {
     private int[] items; // internal representation of the bag
     private int numItems = 0; // number of items currently in the bag

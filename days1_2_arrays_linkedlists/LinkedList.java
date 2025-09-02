@@ -1,3 +1,5 @@
+package days1_2_arrays_linkedlists;
+
 public class LinkedList<T> {
     private class Node<N> {
         private N data;

@@ -1,3 +1,5 @@
+package day3_recursion;
+
 public class CountOccurances {
     int getOccurancesIteratively(String str, char ch) {
         int count = 0;
